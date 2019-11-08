@@ -4,7 +4,7 @@ date: "2019-11-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/test-article/"
-category: "Test"
+category: "Test2"
 tags:
   - "Test"
 description: "Test yopta copy"
